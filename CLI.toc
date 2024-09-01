@@ -1,0 +1,11 @@
+## Interface: 100007
+## Title: CLI Run Addon
+## Notes: A simple addon to run functions via slash commands.
+## Author: larsonnn
+## Version: 1.0
+## SavedVariables: CLIDB
+
+CLI.lua
+editor.lua
+storage.lua
+log.lua
